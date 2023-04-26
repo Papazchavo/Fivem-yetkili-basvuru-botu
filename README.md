@@ -3,7 +3,7 @@
 Discord fivem yetkili başvuru botu v14 sistemdir geliştirmek sizde arkadaşlar kısa ve öz yetkili sistem botu bunu geliştire bilirsiniz iyi forumlar.
 
 ## Kurulum
-```src config```
+```src config token("TOKEN GİRİCEN ORAYA AMK ONUDA BEN DEMİYİM SİZE")```
 
 ## Ekran Görüntüleri
 
