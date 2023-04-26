@@ -15,3 +15,5 @@
 ![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1087534967497695352/1100931163025059870/Ekran_goruntusu_2023-04-27_024433.png?width=370&height=96)
 
 
+## 🔱 **Report**
+**Papaz#999 Hata Alarısan bana ulaş yardım ederim.**
