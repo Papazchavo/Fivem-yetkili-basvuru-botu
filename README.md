@@ -1,8 +1,9 @@
-# Fivem Başvuru Uygulaması
+# **Fivem Başvuru Botu**
 
-Discord fivem yetkili başvuru botu v14 sistemdir geliştirmek sizde arkadaşlar kısa ve öz yetkili sistem botu bunu geliştire bilirsiniz iyi forumlar.
 
-## Kurulum
+**Discord fivem yetkili başvuru botu v14 sistemdir geliştirmek sizde arkadaşlar kısa ve öz yetkili sistem botu bunu geliştire bilirsiniz iyi forumlar fivem alaklı bot istiyorsanız star verin liste çekin eklerim kardeşimlerim.**
+
+## **Kurulum**
 ```src config token("TOKEN GİRİCEN ORAYA AMK ONUDA BEN DEMİYİM SİZE")```
 
 ## Ekran Görüntüleri
@@ -14,6 +15,3 @@ Discord fivem yetkili başvuru botu v14 sistemdir geliştirmek sizde arkadaşlar
 ![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1087534967497695352/1100931163025059870/Ekran_goruntusu_2023-04-27_024433.png?width=370&height=96)
 
 
-## Dosluk dur
-
-Kapsent<3
