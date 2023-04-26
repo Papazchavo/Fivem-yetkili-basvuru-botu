@@ -2,6 +2,8 @@
 
 Discord fivem yetkili başvuru botu v14 sistemdir geliştirmek sizde arkadaşlar kısa ve öz yetkili sistem botu bunu geliştire bilirsiniz iyi forumlar.
 
+## Kurulum
+```src config```
 
 ## Ekran Görüntüleri
 
