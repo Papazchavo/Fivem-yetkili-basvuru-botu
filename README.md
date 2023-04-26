@@ -6,7 +6,7 @@
 ## 🔧**Kurulum**
 ```src config token("TOKEN GİRİCEN ORAYA AMK ONUDA BEN DEMİYİM SİZE")```
 
-## Ekran Görüntüleri
+## 📷 Ekran Görüntüleri
 
 ![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1087534967497695352/1100931163285094460/Ekran_goruntusu_2023-04-27_024410.png?width=349&height=111)
 
