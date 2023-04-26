@@ -1,0 +1,3 @@
+module.exports = {
+    token: "ARKADAŞLAR ORUSPU COCU OLMAYIN LÜTFEN PAPAZ BURDA KAPSENT KARDEŞİMSİN",
+}
